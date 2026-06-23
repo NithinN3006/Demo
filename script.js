@@ -4,7 +4,7 @@ function addStudent() {
     let marks = document.getElementById("marks").value;
 
     if(name === "" || marks === "") {
-        alert("Please enter all fields");
+        alert("Please enter  all the  fields");
         return;
     }
 
